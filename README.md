@@ -29,16 +29,6 @@
 
 - ONNX makes the file quantized , which saves a lot of space ( Say attributes are of float value format , using .onnx it will convert to int format )        
 
-# Reference Links :
-
-
-* [Detailed Description](https://github.com/onnx/onnx)
-
-* [ 3 Projects](https://github.com/entbappy/ONNX-Open-Neural-Network-Exchange)
-
-* [ Presentation ](https://docs.google.com/presentation/d/1hqDJgpNmfJul2OkLk8Rry1jGbE9pT-VgKf4_PhojdIw/edit#slide=id.gc6f75fceb_0_0)
-
-
 
 # Framework Conversion Example :
 
@@ -107,12 +97,5 @@
 - Open "PyTorch to Tensorflow.ipynb" file in google collab .
 - Execute all cells one-by-one and observe the output .			
 
-
-```bash
-Author: Bappy Ahmed ( assisted by : Jateendra Pradhan )
-Data Scientist
-Email: entbappy73@gmail.com
-
-```
 
 
